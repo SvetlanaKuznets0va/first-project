@@ -1,1 +1,3 @@
-public class WeneedAll{}
+public class WeneedAll{
+public static void main(String[]args {
+}}
